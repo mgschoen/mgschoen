@@ -24,12 +24,5 @@ Even though I worked in the fast and sometimes loud world of [news](https://www.
 
 - Building an [audio player](https://www.spiegel.de/familie/freizeit-wie-finde-ich-ein-hobby-podcast-a-5bbc5778-5225-4ba2-95cf-59cf6a7bc0c2) from scratch
 - Adding [bookmarks](https://www.spiegel.de/backstage/merkliste-so-speichern-sie-artikel-und-finden-sie-wieder-a-d45543c7-3b70-412d-b56b-f17865e8f2b8) to DER SPIEGEL
-- Migrating a vanilla JS codebase to [AlpineJS](https://alpinejs.dev/)
 - Relaunching ZEIT ONLINE’s festival platform [Z2X](https://z2x.zeit.de/)
 - Building a [robot photo editor](http://picpic-demo.argonn.me/)
-
-## Find me in places
-
-✉️ Send me an [E-Mail](mailto:martingeorg.schoen@gmail.com)
-
-🦣 Give me a toot on [Mastodon](https://norden.social/@schonschoen)
