@@ -16,11 +16,12 @@ Even though I worked in the fast and sometimes loud world of [news](https://www.
 
 - [AlpineJS](https://alpinejs.dev/)
 - [esbuild](https://esbuild.github.io/)
-- [Scriptable](https://scriptable.app/)
+- [Statamic CMS](https://statamic.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Zustand](https://github.com/pmndrs/zustand)
-- [The R programming language](https://www.r-project.org/)
+- [Rosetta for Docker Desktop](https://www.docker.com/blog/docker-desktop-4-26/)
 - [Raycast](https://www.raycast.com/)
+- [Vue JS](https://vuejs.org/)
 
 ## Projects I am proud of
 
