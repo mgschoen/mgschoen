@@ -15,7 +15,7 @@ Even though I worked in the fast and sometimes loud world of [news](https://www.
 ## Technologies I recently liked using
 
 - [AlpineJS](https://alpinejs.dev/)
-- [esbuild](https://esbuild.github.io/)
+- [Parcel](https://parceljs.org/)
 - [Statamic CMS](https://statamic.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Zustand](https://github.com/pmndrs/zustand)
