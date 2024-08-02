@@ -2,26 +2,26 @@
 
 My name is **Martin Schön**. I am a web developer.
 
-Currently, I am building and maintaining [one of Europe’s largest news websites](https://www.spiegel.de/), together with my colleagues at [SPIEGEL Tech Lab](https://techlab.spiegel.de/).
+Currently, I am building and maintaining the software behind [one of Europe’s largest news websites](https://www.spiegel.de/), together with my colleagues at [SPIEGEL Tech Lab](https://techlab.spiegel.de/).
 
-Even though I worked in the fast and sometimes loud world of [news](https://www.sueddeutsche.de/) [publishers](https://www.zeit.de/) for the last nine years, I do enjoy the web most when it’s tidy and calm. I like
+Although I worked in the fast and sometimes chaotic world of [news](https://www.sueddeutsche.de/) [publishers](https://www.zeit.de/) for the last ten years, I enjoy the web most when it’s tidy, calm and made by passionate individuals. I like
 
 🍦 [progressive enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement)
 
 🌱 [the sustainable web](https://www.sustainablewebmanifesto.com/)
 
-🧘 [the slow web](https://www.wired.com/story/find-comfort-on-the-slow-web/)
+🧑‍💻 [the indie web](https://indieweb.org/)
 
 ## Technologies I recently liked using
 
 - [AlpineJS](https://alpinejs.dev/)
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
 - [Parcel](https://parceljs.org/)
-- [Statamic CMS](https://statamic.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Zustand](https://github.com/pmndrs/zustand)
-- [Rosetta for Docker Desktop](https://www.docker.com/blog/docker-desktop-4-26/)
 - [Raycast](https://www.raycast.com/)
 - [Vue JS](https://vuejs.org/)
+- [Arc Browser](https://arc.net/)
 
 ## Projects I am proud of
 
